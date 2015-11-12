@@ -33,7 +33,7 @@
 <h2 id="usergroup-location_=_Prototek;">usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
 <img src="/images/sponsors/prototek.png" width="700" title="Prototek OKC">
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap6934" style="
+<div id="googleMap1565" style="
             height: 250px;
             width: 100%;
             margin: 0px;
@@ -43,13 +43,13 @@
 <style>.gmnoprint img {max-width: none !important;}</style>
 <script defer="defer">
   window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap6934'] = function init() {
+  window.hexoGmaps.maps['initgoogleMap1565'] = function init() {
     var mapOptions = {
        'scrollwheel': false,
        'zoom': 17,
        'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
      },
-     target = document.getElementById('googleMap6934'),
+     target = document.getElementById('googleMap1565'),
      map = new window.google.maps.Map(target, mapOptions);
       
      
@@ -123,7 +123,7 @@
 <h2 id="usergroup-location_=_Prototek;">usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
 <img src="/images/sponsors/prototek.png" width="700" title="Prototek OKC">
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap5170" style="
+<div id="googleMap7271" style="
             height: 250px;
             width: 100%;
             margin: 0px;
@@ -133,13 +133,13 @@
 <style>.gmnoprint img {max-width: none !important;}</style>
 <script defer="defer">
   window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap5170'] = function init() {
+  window.hexoGmaps.maps['initgoogleMap7271'] = function init() {
     var mapOptions = {
        'scrollwheel': false,
        'zoom': 17,
        'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
      },
-     target = document.getElementById('googleMap5170'),
+     target = document.getElementById('googleMap7271'),
      map = new window.google.maps.Map(target, mapOptions);
       
      
@@ -220,7 +220,7 @@
 <h2 id="usergroup-location_=_Prototek;">usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
 <img src="/images/sponsors/prototek.png" title="[700] [Prototek OKC]">
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap8707" style="
+<div id="googleMap5647" style="
             height: 250px;
             width: 100%;
             margin: 0px;
@@ -230,13 +230,13 @@
 <style>.gmnoprint img {max-width: none !important;}</style>
 <script defer="defer">
   window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap8707'] = function init() {
+  window.hexoGmaps.maps['initgoogleMap5647'] = function init() {
     var mapOptions = {
        'scrollwheel': false,
        'zoom': 17,
        'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
      },
-     target = document.getElementById('googleMap8707'),
+     target = document.getElementById('googleMap5647'),
      map = new window.google.maps.Map(target, mapOptions);
       
      
@@ -337,7 +337,7 @@
 <h2 id="usergroup-location_=_Prototek;">usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
 <img src="/images/sponsors/prototek.png" width="700" title="Prototek OKC">
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap7410" style="
+<div id="googleMap1329" style="
             height: 250px;
             width: 100%;
             margin: 0px;
@@ -347,13 +347,13 @@
 <style>.gmnoprint img {max-width: none !important;}</style>
 <script defer="defer">
   window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap7410'] = function init() {
+  window.hexoGmaps.maps['initgoogleMap1329'] = function init() {
     var mapOptions = {
        'scrollwheel': false,
        'zoom': 17,
        'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
      },
-     target = document.getElementById('googleMap7410'),
+     target = document.getElementById('googleMap1329'),
      map = new window.google.maps.Map(target, mapOptions);
       
      
@@ -445,7 +445,7 @@
 <h2 id="usergroup-location_=_Prototek;">usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
 <img src="/images/sponsors/prototek.png" width="700" title="Prototek OKC">
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap6699" style="
+<div id="googleMap7691" style="
             height: 250px;
             width: 100%;
             margin: 0px;
@@ -455,13 +455,13 @@
 <style>.gmnoprint img {max-width: none !important;}</style>
 <script defer="defer">
   window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap6699'] = function init() {
+  window.hexoGmaps.maps['initgoogleMap7691'] = function init() {
     var mapOptions = {
        'scrollwheel': false,
        'zoom': 17,
        'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
      },
-     target = document.getElementById('googleMap6699'),
+     target = document.getElementById('googleMap7691'),
      map = new window.google.maps.Map(target, mapOptions);
       
      
@@ -534,7 +534,7 @@
 <h2 id="usergroup-location_=_Prototek;">usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
 <img src="/images/sponsors/prototek.png" width="700" title="Prototek OKC">
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap7205" style="
+<div id="googleMap1826" style="
             height: 250px;
             width: 100%;
             margin: 0px;
@@ -544,13 +544,13 @@
 <style>.gmnoprint img {max-width: none !important;}</style>
 <script defer="defer">
   window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap7205'] = function init() {
+  window.hexoGmaps.maps['initgoogleMap1826'] = function init() {
     var mapOptions = {
        'scrollwheel': false,
        'zoom': 17,
        'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
      },
-     target = document.getElementById('googleMap7205'),
+     target = document.getElementById('googleMap1826'),
      map = new window.google.maps.Map(target, mapOptions);
       
      
@@ -627,7 +627,7 @@
 <h2 id="usergroup-location_=_Prototek;">usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
 <img src="/images/sponsors/prototek.png" width="700" title="Prototek OKC">
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap860" style="
+<div id="googleMap8999" style="
             height: 250px;
             width: 100%;
             margin: 0px;
@@ -637,13 +637,13 @@
 <style>.gmnoprint img {max-width: none !important;}</style>
 <script defer="defer">
   window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap860'] = function init() {
+  window.hexoGmaps.maps['initgoogleMap8999'] = function init() {
     var mapOptions = {
        'scrollwheel': false,
        'zoom': 17,
        'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
      },
-     target = document.getElementById('googleMap860'),
+     target = document.getElementById('googleMap8999'),
      map = new window.google.maps.Map(target, mapOptions);
       
      
@@ -739,7 +739,7 @@
 <h2 id="usergroup-location_=_Prototek;">usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
 <img src="/images/sponsors/prototek.png" width="700" title="Prototek OKC">
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap1274" style="
+<div id="googleMap6650" style="
             height: 250px;
             width: 100%;
             margin: 0px;
@@ -749,13 +749,13 @@
 <style>.gmnoprint img {max-width: none !important;}</style>
 <script defer="defer">
   window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap1274'] = function init() {
+  window.hexoGmaps.maps['initgoogleMap6650'] = function init() {
     var mapOptions = {
        'scrollwheel': false,
        'zoom': 17,
        'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
      },
-     target = document.getElementById('googleMap1274'),
+     target = document.getElementById('googleMap6650'),
      map = new window.google.maps.Map(target, mapOptions);
       
      
@@ -848,7 +848,7 @@
 <h2 id="usergroup-location_=_Prototek;">usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
 <img src="/images/sponsors/prototek.png" width="700" title="Prototek OKC">
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap7150" style="
+<div id="googleMap2099" style="
             height: 250px;
             width: 100%;
             margin: 0px;
@@ -858,13 +858,13 @@
 <style>.gmnoprint img {max-width: none !important;}</style>
 <script defer="defer">
   window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap7150'] = function init() {
+  window.hexoGmaps.maps['initgoogleMap2099'] = function init() {
     var mapOptions = {
        'scrollwheel': false,
        'zoom': 17,
        'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
      },
-     target = document.getElementById('googleMap7150'),
+     target = document.getElementById('googleMap2099'),
      map = new window.google.maps.Map(target, mapOptions);
       
      
@@ -949,7 +949,7 @@
 <h2 id="usergroup-location_=_Prototek;">usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
 <img src="/images/sponsors/prototek.png" title="[700] [Prototek OKC]">
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap5524" style="
+<div id="googleMap5206" style="
             height: 250px;
             width: 100%;
             margin: 0px;
@@ -959,13 +959,13 @@
 <style>.gmnoprint img {max-width: none !important;}</style>
 <script defer="defer">
   window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap5524'] = function init() {
+  window.hexoGmaps.maps['initgoogleMap5206'] = function init() {
     var mapOptions = {
        'scrollwheel': false,
        'zoom': 17,
        'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
      },
-     target = document.getElementById('googleMap5524'),
+     target = document.getElementById('googleMap5206'),
      map = new window.google.maps.Map(target, mapOptions);
       
      
@@ -1050,7 +1050,7 @@
 <h2 id="usergroup-location_=_Prototek;">usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
 <img src="/images/sponsors/prototek.png" title="[700] [Prototek OKC]">
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap4699" style="
+<div id="googleMap105" style="
             height: 250px;
             width: 100%;
             margin: 0px;
@@ -1060,13 +1060,13 @@
 <style>.gmnoprint img {max-width: none !important;}</style>
 <script defer="defer">
   window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap4699'] = function init() {
+  window.hexoGmaps.maps['initgoogleMap105'] = function init() {
     var mapOptions = {
        'scrollwheel': false,
        'zoom': 17,
        'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
      },
-     target = document.getElementById('googleMap4699'),
+     target = document.getElementById('googleMap105'),
      map = new window.google.maps.Map(target, mapOptions);
       
      
@@ -1143,7 +1143,7 @@
 <h2 id="usergroup-location_=_Prototek;">usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
 <img src="/images/sponsors/prototek.png" title="[700] [Prototek OKC]">
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap6065" style="
+<div id="googleMap6559" style="
             height: 250px;
             width: 100%;
             margin: 0px;
@@ -1153,13 +1153,13 @@
 <style>.gmnoprint img {max-width: none !important;}</style>
 <script defer="defer">
   window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap6065'] = function init() {
+  window.hexoGmaps.maps['initgoogleMap6559'] = function init() {
     var mapOptions = {
        'scrollwheel': false,
        'zoom': 17,
        'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
      },
-     target = document.getElementById('googleMap6065'),
+     target = document.getElementById('googleMap6559'),
      map = new window.google.maps.Map(target, mapOptions);
       
      
@@ -1291,7 +1291,7 @@
 <h2 id="usergroup-location_=_Prototek;">usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
 <img src="/images/sponsors/prototek.png" title="[700] [Prototek OKC]">
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap3488" style="
+<div id="googleMap7698" style="
             height: 250px;
             width: 100%;
             margin: 0px;
@@ -1301,13 +1301,13 @@
 <style>.gmnoprint img {max-width: none !important;}</style>
 <script defer="defer">
   window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap3488'] = function init() {
+  window.hexoGmaps.maps['initgoogleMap7698'] = function init() {
     var mapOptions = {
        'scrollwheel': false,
        'zoom': 17,
        'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
      },
-     target = document.getElementById('googleMap3488'),
+     target = document.getElementById('googleMap7698'),
      map = new window.google.maps.Map(target, mapOptions);
       
      
@@ -1375,7 +1375,7 @@
 <h2 id="usergroup-location_=_Prototek;">usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
 <img src="/images/sponsors/prototek.png" title="[700] [Prototek OKC]">
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap864" style="
+<div id="googleMap7102" style="
             height: 250px;
             width: 100%;
             margin: 0px;
@@ -1385,13 +1385,13 @@
 <style>.gmnoprint img {max-width: none !important;}</style>
 <script defer="defer">
   window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap864'] = function init() {
+  window.hexoGmaps.maps['initgoogleMap7102'] = function init() {
     var mapOptions = {
        'scrollwheel': false,
        'zoom': 17,
        'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
      },
-     target = document.getElementById('googleMap864'),
+     target = document.getElementById('googleMap7102'),
      map = new window.google.maps.Map(target, mapOptions);
       
      
@@ -1467,7 +1467,7 @@
 <h2 id="workshop-location_=_Prototek;">workshop.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City. Find Prototek at 401 NW 10th St, Oklahoma City, Oklahoma 73103. Get directions via <a href="https://www.google.com/maps/place/401+NW+10th+St/@35.478527,-97.519417,17z/data=!3m1!4b1!4m2!3m1!1s0x87b21733fd30d655:0xce3a1cd9b95c8415" target="_blank" rel="external">Google maps</a>.</p>
 <p>Parking options include: street parking facing West on NW 10th, the dirt lot adjacent to Prototek on N Hudson Ave, or parking next to Prototek facing South.<br><img src="/images/misc/parkingatprototek.jpg" title="[700] [Parking at Prototek]"></p>
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap9362" style="
+<div id="googleMap3759" style="
             height: 250px;
             width: 100%;
             margin: 0px;
@@ -1477,13 +1477,13 @@
 <style>.gmnoprint img {max-width: none !important;}</style>
 <script defer="defer">
   window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap9362'] = function init() {
+  window.hexoGmaps.maps['initgoogleMap3759'] = function init() {
     var mapOptions = {
        'scrollwheel': false,
        'zoom': 17,
        'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
      },
-     target = document.getElementById('googleMap9362'),
+     target = document.getElementById('googleMap3759'),
      map = new window.google.maps.Map(target, mapOptions);
       
      
@@ -1575,7 +1575,7 @@
 <h2 id="usergroup-location_=_Prototek;">usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
 <img src="/images/sponsors/prototek.png" title="[700] [Prototek OKC]">
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap7901" style="
+<div id="googleMap8780" style="
             height: 250px;
             width: 100%;
             margin: 0px;
@@ -1585,13 +1585,13 @@
 <style>.gmnoprint img {max-width: none !important;}</style>
 <script defer="defer">
   window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap7901'] = function init() {
+  window.hexoGmaps.maps['initgoogleMap8780'] = function init() {
     var mapOptions = {
        'scrollwheel': false,
        'zoom': 17,
        'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
      },
-     target = document.getElementById('googleMap7901'),
+     target = document.getElementById('googleMap8780'),
      map = new window.google.maps.Map(target, mapOptions);
       
      
@@ -1674,7 +1674,7 @@
 <h2 id="usergroup-location_=_Prototek;">usergroup.location = Prototek;</h2><p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
 <img src="/images/sponsors/prototek.png" title="[700] [Prototek OKC]">
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
-<div id="googleMap4130" style="
+<div id="googleMap5775" style="
             height: 250px;
             width: 100%;
             margin: 0px;
@@ -1684,13 +1684,13 @@
 <style>.gmnoprint img {max-width: none !important;}</style>
 <script defer="defer">
   window.hexoGmaps = window.hexoGmaps || { maps: {}};
-  window.hexoGmaps.maps['initgoogleMap4130'] = function init() {
+  window.hexoGmaps.maps['initgoogleMap5775'] = function init() {
     var mapOptions = {
        'scrollwheel': false,
        'zoom': 17,
        'center': new window.google.maps.LatLng( 35.478527 , -97.519417 ),
      },
-     target = document.getElementById('googleMap4130'),
+     target = document.getElementById('googleMap5775'),
      map = new window.google.maps.Map(target, mapOptions);
       
      
