@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://okcjs.com/2015/12/15/2015-12-15-lightning-talks-11/</loc>
+    <lastmod>2015-12-08T02:08:14.000Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://okcjs.com/2015/11/17/2015-11-17-building-native-mobile-apps/</loc>
     <lastmod>2015-11-12T00:26:47.000Z</lastmod>
   </url>
   
   <url>
-    <loc>http://okcjs.com/2013/07/23/2013-7-23-july-meeting-firefox-os/</loc>
-    <lastmod>2015-10-13T01:04:35.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://okcjs.com/2015/07/21/2015-7-21-webgl-the-hard-way/</loc>
+    <loc>http://okcjs.com/2013/06/18/2013-6-18-june-meeting-emberjs/</loc>
     <lastmod>2015-10-13T01:04:35.000Z</lastmod>
   </url>
   
@@ -127,12 +127,12 @@
   </url>
   
   <url>
-    <loc>http://okcjs.com/2015/08/18/2015-8-18-get-your-mvp-out-with-baas/</loc>
+    <loc>http://okcjs.com/2013/07/23/2013-7-23-july-meeting-firefox-os/</loc>
     <lastmod>2015-10-13T01:04:35.000Z</lastmod>
   </url>
   
   <url>
-    <loc>http://okcjs.com/2013/06/18/2013-6-18-june-meeting-emberjs/</loc>
+    <loc>http://okcjs.com/2015/08/18/2015-8-18-get-your-mvp-out-with-baas/</loc>
     <lastmod>2015-10-13T01:04:35.000Z</lastmod>
   </url>
   
@@ -233,6 +233,11 @@
   
   <url>
     <loc>http://okcjs.com/2015/09/15/2015-9-15-lightning-talks-10/</loc>
+    <lastmod>2015-10-13T01:04:35.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://okcjs.com/2015/07/21/2015-7-21-webgl-the-hard-way/</loc>
     <lastmod>2015-10-13T01:04:35.000Z</lastmod>
   </url>
   
